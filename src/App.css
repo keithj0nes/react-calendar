@@ -225,7 +225,7 @@ main {
 }
 
 .calendar .body .cell:hover .bg, .calendar .body .selected .bg  {
-  opacity: 0.05;
+  opacity: 0.1;
   transition: .5s ease-in;
 }
 
